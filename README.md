@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **CjMullins87/CjMullins87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My name is Chris, and I am:
+* A Great People Leader 💖
+* An aspiring Data Scientist 📊
+* A FlatIron graduate 🎓
+* A Texas Longhorn 🤘
