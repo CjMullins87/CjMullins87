@@ -1,22 +1,13 @@
 # Hi there 👋
 
-<!--
-**CjMullins87/CjMullins87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Chris, and:
+- 🔭 I’m currently working as an analyst for Bill.com
+- 🌱 I’m currently learning to be the best version of myself
+- 💬 Ask me about cooking
+- 😄 Pronouns: He/Him
+- 🐕 I have a dog named Pippin
 
-Here are some ideas to get you started:
+## You can find me:
+- On LinkedIn:  https://www.linkedin.com/in/cjmullins87/
+- On Instagram:  https://www.instagram.com/_yellowjackal/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### My name is Chris, and I am:
-* A Great People Leader 💖
-* An aspiring Data Scientist 📊
-* A FlatIron graduate 🎓
-* A Texas Longhorn 🤘
