@@ -2,7 +2,7 @@
 
 ## My name is Chris, and:
 - 🔭 I’m currently working as an analyst for Bill.com
-- 🌱 I’m currently learning to be the best version of myself
+- 🌱 I’m currently learning unsupervised amchine learning techniques
 - 💬 Ask me about cooking
 - 😄 Pronouns: He/Him
 - 🐕 I have a dog named Pippin
