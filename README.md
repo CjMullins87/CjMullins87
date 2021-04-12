@@ -10,4 +10,4 @@
 ## You can find me:
 - On LinkedIn:  https://www.linkedin.com/in/cjmullins87/
 - On Instagram:  https://www.instagram.com/_yellowjackal/
-- On my blog, /twaw:  https://cjmullins87.github.io/
+- My twaw:  https://cjmullins87.github.io/
